@@ -1,5 +1,6 @@
 # Proiect_InkTime
 Schematic, PCB design si 3D modeling pentru ceasul InkTime in cadrul proiectului de la materia TSC.
+![Exploded View](Images/Exploded_View.png)
 
 ## Diagrama Bloc
 Diagrama bloc a proietului (o varianta destul de minimala, dar suficienta pentru a intelege cum interactioneaza componentele intre ele) este prezenta in folder-ul root proiectului in varianta HTML si a fost realizata folosind [www.drawio.com](https://www.drawio.com/).
