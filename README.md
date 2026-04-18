@@ -1,12 +1,14 @@
 # Proiect_InkTime
 Schematic, PCB design si 3D modeling pentru ceasul InkTime in cadrul proiectului de la materia TSC.
-![Exploded View](Images/Exploded_View.png)
+![Exploded View](Images/PCB_Top_Layer.png)
+![Exploded View](Images/Exploded_View3.png)
 
 ## Diagrama Bloc
 Diagrama bloc a proietului (o varianta destul de minimala, dar suficienta pentru a intelege cum interactioneaza componentele intre ele) este prezenta in folder-ul root proiectului in varianta HTML si a fost realizata folosind [www.drawio.com](https://www.drawio.com/).
+![Exploded View](Images/Block_Diagram.png)
 
 ## BOM
-Tabelul BOM este este prezent sub format .csb in folder-ul root al proiectului si a fost generat folosind facilitatile fusion autodesk.
+TO DO
 
 ## Descrierea functionalitatii hardware
 - componente ce folosesc I2C: LiPo Charger, DC/DC, IMU, Fuel Gauge, Haptic
